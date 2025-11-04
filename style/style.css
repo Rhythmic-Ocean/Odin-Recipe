@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: lightyellow;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.main{
+    background-color: white;
+    width: 50%;
+    margin: 15px auto;
+    padding: 12px;
+}
+
+.main-title,
+.main-list{
+    display: block;
+    margin: 16px auto 16px;
+    width: 50%;
+    background-color: lightblue;
+}
+
+.main-title{
+    text-align: center;
+    padding: 15px 0px;
+}
+
+.main-list{
+   padding:15px 0px 15px 57px;
+}
+
+.recipe{
+    background-color: white;
+    padding: 50px;
+}
+
+.home, .text, .ing, .steps{
+    background-color: lightblue;
+    margin: 12px auto;
+}
+
+.pic{
+    margin: 12px auto;
+    width: 50%;
+}
+
+
+
+
+
+
+
